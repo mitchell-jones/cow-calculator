@@ -1,4 +1,3 @@
-matplotlib.pyplot
 time
 imageio
 pandas
